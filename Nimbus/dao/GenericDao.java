@@ -1,6 +1,6 @@
-package gov.nysed.archives.Nimbus.dao;
+package Nimbus.dao;
 
-import gov.nysed.archives.Nimbus.model.Creator;
+import Nimbus.model.Creator;
 
 import java.io.Serializable;
 import java.util.List;
