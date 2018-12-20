@@ -1,6 +1,6 @@
 package Nimbus.dao;
 
-import gov.nysed.archives.Nimbus.model.DropDown;
+import Nimbus.model.DropDown;
 
 import java.util.List;
 
